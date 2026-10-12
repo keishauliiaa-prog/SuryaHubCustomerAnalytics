@@ -27,7 +27,7 @@ Kumpulan mission analisis data pada studi kasus e-commerce dan kafe (SuryaMart, 
 
 ## Dashboard
 
-[Lihat dashboard Looker Studio](ISI_LINK_LOOKER_STUDIO)
+[Lihat dashboard Looker Studio](https://datastudio.google.com/s/k7cDvaNKbqE)
 
 ![Dashboard SuryaHub](04-dashboard-suryahub/screenshots/dashboard_1_demografi_geografi.png)
 
