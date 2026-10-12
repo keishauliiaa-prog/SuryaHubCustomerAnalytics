@@ -48,4 +48,4 @@ Dataset berasal dari studi kasus (dataset latihan) pada program bootcamp. Data m
 
 ## Kontak
 
-Keisha Aulia Nabil | [LinkedIn](ISI_LINK_LINKEDIN) | ISI_EMAIL
+Keisha Aulia Nabil | [LinkedIn](https://www.linkedin.com/in/keisha-aulia-/) | keishauliiaa@gmail.com
