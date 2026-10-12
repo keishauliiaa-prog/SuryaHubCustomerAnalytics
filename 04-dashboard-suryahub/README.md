@@ -2,7 +2,7 @@
 
 Dashboard interaktif untuk tim Marketing dan Customer Experience SuryaHub, mencakup **6 key business area**, dilengkapi analyst report berisi insight dan rekomendasi yang dapat ditindaklanjuti.
 
-**Dashboard:** [Buka di Looker Studio](ISI_LINK_LOOKER_STUDIO)
+**Dashboard:** [Buka di Looker Studio](https://datastudio.google.com/s/k7cDvaNKbqE)
 
 **Ringkasan:** 499 pelanggan | Total revenue Rp2.118.220.545
 
