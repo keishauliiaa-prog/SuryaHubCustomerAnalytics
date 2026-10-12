@@ -2,7 +2,7 @@
 
 Pembersihan, analisis, dan visualisasi data penjualan harian 6 produk Kopi NangKau (2021 sampai 2023) menggunakan Python di Google Colab.
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/suryahub-customer-analytics/blob/main/02-python-kopi-nangkau/kopi_nangkau_sales_analysis.ipynb](https://colab.research.google.com/github/keishauliiaa-prog/SuryaHubCustomerAnalytics/blob/main/02-python-kopi-nangkau/kopi_nangkau_sales_analysis.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keishauliiaa-prog/SuryaHubCustomerAnalytics/blob/main/02-python-kopi-nangkau/kopi_nangkau_sales_analysis.ipynb)
 
 Notebook: [kopi_nangkau_sales_analysis.ipynb](kopi_nangkau_sales_analysis.ipynb)
 
