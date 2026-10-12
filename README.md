@@ -34,7 +34,7 @@ Kumpulan mission analisis data pada studi kasus e-commerce dan kafe (SuryaMart, 
 ## Struktur Repository
 
 ```
-suryahub-customer-analytics/
+SuryaHubCustomerAnalytics/
 ├── 01-excel-suryamart/
 ├── 02-python-kopi-nangkau/
 ├── 03-sql-suryahub/
